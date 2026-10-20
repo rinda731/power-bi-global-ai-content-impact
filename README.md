@@ -2,6 +2,8 @@
 
 An interactive 5-page Power BI dashboard analysing how AI adoption relates to trust, jobs, revenue and content volume across 10 countries and 10 industries from 2020 to 2025.
 
+![Overview page](Images/Overview.png)
+
 ## Project objective
 
 Explore how AI adoption varies by country, industry, tool and regulation level, and what that means for revenue gain, job loss and consumer trust.
